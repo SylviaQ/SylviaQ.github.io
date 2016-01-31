@@ -1,0 +1,34 @@
+body {
+
+	font-family: 'Open Sans', sans-serif;
+	color: #141414;
+	font-weight:300;
+}
+a {color:#92b964;
+	text-decoration: none;
+}
+a:hover {color:#fed586;}
+
+.container
+{
+	padding:100px 100px;
+}
+.about 
+{	padding-left:40px;
+	margin-bottom: 30px;
+	}
+
+#intro {font-size: 17px;}
+#contact {font-size: 17px;}
+.social {
+	padding-right: 10px;
+}
+
+.portfolio-section
+{
+	padding-left:40px;
+}
+/**.project {
+	border: solid 1px black;
+	height: 200px;
+}**/
