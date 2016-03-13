@@ -45,6 +45,11 @@ a:hover {color:#fed586;}
 	font-weight: 200;
 	line-height: 30px;
 }
+.btn.round
+{
+	border-radius:25px;
+	border:none;
+}
 /*.portfolio-section
 {
 	padding-left:40px;
