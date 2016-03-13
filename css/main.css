@@ -9,13 +9,14 @@ a {color:#92b964;
 }
 a:hover {color:#fed586;}
 
-.container
+.intro_contain
 {
 	padding:100px 100px;
 }
 .about 
 {	padding-left:40px;
 	margin-bottom: 30px;
+
 	}
 
 #intro {font-size: 17px;}
@@ -23,11 +24,30 @@ a:hover {color:#fed586;}
 .social {
 	padding-right: 10px;
 }
+.jumbotron
+{
+	margin-bottom: 0;
+}
 
-.portfolio-section
+.project
+{
+	padding-left: 180px;
+}
+.project h3
+{
+	font-size: 30px;
+	font-weight: 300;
+}
+.project p
+{
+	font-size: 16px;
+	font-weight: 200;
+	line-height: 30px;
+}
+/*.portfolio-section
 {
 	padding-left:40px;
-}
+}*/
 /**.project {
 	border: solid 1px black;
 	height: 200px;
