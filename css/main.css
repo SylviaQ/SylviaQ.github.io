@@ -47,7 +47,7 @@ a:hover {color:#fed586;}
 }
 .btn.round
 {
-	border-radius:25px;
+	border-radius:0px;
 	border:none;
 }
 /*.portfolio-section
