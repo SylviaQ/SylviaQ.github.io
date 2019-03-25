@@ -19,7 +19,7 @@ a:hover {color:#fed586;}
 
 	}
 
-.intro_contain h1 {
+.hello {
 	font-size: 36px;
 	font-weight:700;
 	letter-spacing: 2px;
@@ -53,6 +53,11 @@ a:hover {color:#fed586;}
 	line-height: 30px;
 	letter-spacing:0.8px;
 	color:#E9E0D0;
+}
+
+.dark {
+
+	color:#3b444f;
 }
 .btn.round
 {
