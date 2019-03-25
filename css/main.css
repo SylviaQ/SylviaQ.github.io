@@ -19,7 +19,12 @@ a:hover {color:#fed586;}
 
 	}
 
-#intro {font-size: 17px;}
+#intro {
+	font-size: 17px;
+	font-weight:700;
+	letter-spacing: 2px;
+	color:#3b444f;
+}
 #contact {font-size: 17px;}
 .social {
 	padding-right: 10px;
@@ -36,14 +41,18 @@ a:hover {color:#fed586;}
 .project h3
 {
 	font-size: 30px;
-	font-weight: 500;
+	font-weight: 700;
 	line-height: 45px;
+	letter-spacing: 3px;
+	color:#e9e0d0;
 }
 .project p
 {
 	font-size: 16px;
-	font-weight: 200;
+	font-weight: 300;
 	line-height: 30px;
+	letter-spacing:0.8px;
+	color:#e9e0d0;
 }
 .btn.round
 {
