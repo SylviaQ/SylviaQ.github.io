@@ -1,7 +1,7 @@
 body {
 
 	font-family: 'Open Sans', sans-serif;
-	color: #141414;
+	color: #E9E0D0;
 	font-weight:300;
 }
 a {color:#92b964;
@@ -19,8 +19,8 @@ a:hover {color:#fed586;}
 
 	}
 
-#intro {
-	font-size: 17px;
+h1 {
+	font-size: 36px;
 	font-weight:700;
 	letter-spacing: 2px;
 	color:#3b444f;
